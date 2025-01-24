@@ -1,21 +1,11 @@
 <p><h1 align="center">49.基于ssm的NBA网商平台管理系统</h1></p>
 
-###  获取sql数据库文件: 从戎源码网 (https://armycodes.com/) QQ: 386869957 QQ群: 377586148 
-###  所有系统地址: (https://github.com/YuLin-Coder/AllProjectCatalog) 
-###  所有项目以及源代码本人均调试运行无问题 可支持远程安装部署调试、定制修改、代码讲解
-
-## 简介
-> 本代码来源于网络,仅供学习参考使用!
-
-> 前端访问: http://localhost:8080/
-> 
-> 用户：user 1
-> 
-> 后台访问: http://localhost:8080/admin/login
-> 
-> 管理员：admin 1
->
-
+- <b>完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))</b>
+- <b>技术探讨、资料分享，请加QQ群：692619798</b> 
+- <b>作者微信：19941326836  QQ：952045282</b> 
+- <b>承接计算机毕业设计、Java毕业设计、Python毕业设计、深度学习、机器学习</b>
+- <b>选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 一条龙服务</b>
+- <b>所有选题地址 ([https://github.com/YuLin-Coder/AllProjectCatalog](https://github.com/YuLin-Coder/AllProjectCatalog)) </b>
 ## 项目介绍
 基于ssm的NBA网商平台管理系统：前端jsp、jquery、bootstrap，后端 spring、mybatis，集成商品管理、订单管理、资讯管理、商品前台展示、商品详情、分类展示、购物车等功能于一体的系统。
 
